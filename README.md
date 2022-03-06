@@ -9,3 +9,5 @@
 - React Native  
 - Expo  
 - Firebase
+
+![IMG_1154 2](https://user-images.githubusercontent.com/70079416/156920856-8a77f86d-0574-4675-9083-9ba5ba1f4bca.jpg)
